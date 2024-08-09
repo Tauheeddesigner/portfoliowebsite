@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.navbar{
+    height:80px;
+    background-color: brown;
+  
+   
+}
+
+}
+h1{
+
+}
+.navheading{
+    margin-left: 550px;
+    margin-top: 30px;
+    color:white;
+}
+.services{
+    height:300px;
+    background-color: black;
+    border:2px solid blue
+}
+.services h2,li{
+    color:white;
+    margin-left: 10px;
+}
+.Programming{
+    height: 200px;
+    background-color: darkgrey;
+}
+.Programming li{
+    color:black
+}
+button{
+    background-color: darkblue;
+    color:white;
+    padding: 1rem;
+    font-size: large;
+    margin-left: 10px;
+    
+}
+button:hover{
+    background-color: darkorange;
+    color:black;
+    border-radius: 1rem;
+}
+.footer{
+    height:100px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    border:1px solid green;
+}
+

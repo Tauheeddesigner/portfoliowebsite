@@ -1,0 +1,74 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.container{
+    height:80px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    border: 2px solid white;
+
+    
+}
+.container h1{
+    color:white;
+    margin-right:  220px;
+    margin-top: 20px;
+}
+
+body{
+    background-color: chartreuse;
+}
+
+.about{
+    height: 300px;
+    background-color: darkorange;
+    border:1px solid black;
+    margin-top: 2px;
+}
+p{
+    color:white;
+}
+.obj{
+    color:black;
+}
+.experience{
+    height: 250px;
+  
+}
+
+.tech{
+    background-color: rgb(255, 0, 60);
+}
+.tech p,h2,li{
+    color:white;
+}
+.b{
+    color:black;
+}
+.experience p,h2,li{
+    color:black;
+}
+
+button{
+    background-color: black;
+    color:white;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-left: 550px;
+    font-size: larger;
+}
+button:hover{
+    background-color: blue;
+}
+.pro{
+    margin: 0px;
+    border-radius: 1rem;
+    
+    background-color: blue;
+    color:white;
+}
+.pro:hover{
+    background-color: black;
+}

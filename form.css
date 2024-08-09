@@ -1,0 +1,61 @@
+
+ p{
+    color:black;
+    font-size: 1rem;
+ } 
+ input{
+    height: 35px;
+    width:300px;
+    border-radius: 1rem;
+ }
+ input:hover{
+    background-color: darkgrey;
+ }
+ #name{
+    margin-left: 27px;
+ }
+ #email{
+    margin-left: 27px;
+ }
+ #password{
+    margin-left: 5px;
+ }
+ .submitt{
+    font-size: 1rem;
+    padding: 1rem;
+    background-color: black;
+    color:white;
+    margin-left: 60px;
+    border-radius: 1rem;
+  
+
+ }
+ .h{
+   display: none;
+ }
+ .hide{
+   background-color: blue;
+   color:white;
+   border:2px solid black;
+   font-size: 1rem;
+   padding: 1rem;
+   margin-left: 10rem;
+   
+ }
+ #name{
+   margin-left: 35px;
+ }
+ 
+ .go{
+   display: none;
+ }
+ .hide:hover{
+   border-radius: 1rem;
+   background-color: black;
+ }
+ 
+
+ 
+   
+ 
+   

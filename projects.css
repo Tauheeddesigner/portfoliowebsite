@@ -1,0 +1,31 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    color:black;
+    margin-left: 550px;
+}
+
+.im{
+    margin-left: 19rem;
+}
+.flyers{
+    display: flex;
+    width:500px;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.next{
+    margin-left: 200px;
+   
+}
+.logo{
+    display: flex;
+    width:500px;
+    justify-content: center;
+    justify-content: space-around;
+}
+a{
+    font-size: 1rem;
+}
+
